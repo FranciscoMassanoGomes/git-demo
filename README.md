@@ -2,7 +2,5 @@
 
 this is the first file in my repo
 
-##Ipsum below
-Mauris nisi purus, scelerisque ac metus et, volutpat dapibus sapien. Nulla eu convallis dolor. In et lectus vel elit commodo condimentum ut quis justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam pharetra nisl vel lectus lacinia consequat. Aenean pellentesque ante in elit viverra, sed porttitor dolor dignissim. Donec ut fringilla tortor, sed interdum nulla. Sed vitae urna orci. Quisque eget rutrum massa, ac dapibus lacus. Nam ullamcorper placerat justo sed volutpat. In vitae orci tellus. Nullam convallis mauris non ultricies finibus. Vivamus sodales ipsum vitae orci venenatis vehicula. Sed et ex est. Quisque egestas tristique nunc, non eleifend libero molestie sit amet. Integer in magna et nulla posuere congue at sit amet ipsum.
-~
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eu congue neque, ut ultrices sapien. Maecenas tempor faucibus ligula, quis consequat elit venenatis at. Quisque eleifend lorem at pretium condimentum. Nulla fringilla ac mauris interdum lobortis. Proin lorem leo, finibus id fermentum nec, vehicula nec velit. Proin in lacus at ante facilisis porttitor eu vitae dui. Morbi venenatis laoreet nunc, sed volutpat velit dapibus et. Etiam suscipit molestie purus efficitur pellentesque. Proin metus lacus, interdum et sem quis, faucibus malesuada metus. Quisque at consequat enim. Proin accumsan diam auctor diam faucibus fringilla. Nunc at lacinia sapien, mollis maximus turpis. Proin feugiat venenatis est, ut dictum nisl ullamcorper a. Aliquam sed dolor ac massa volutpat bibendum. Nulla malesuada lacus nec ultricies laoreet.
+##Website Content
+1. index.html
